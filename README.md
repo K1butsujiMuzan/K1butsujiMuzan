@@ -10,9 +10,6 @@
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="50" height="50" alt="MySQL" /></a>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="50" height="50" alt="Git" /></a>
         <a href="https://github.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="50" height="50" alt="GitHub" /></a>
-       
-        
-    </div>
 </div>
 
 <a href="https://github.com/K1butsujiMuzan" style="width: 50%">
