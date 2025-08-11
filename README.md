@@ -12,8 +12,6 @@
         <a href="https://github.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="50" height="50" alt="GitHub" /></a>
 </div>
 
-Статистика использования языков в моих проектах:
+Вот визуализация языкового распределения в моих проектах:
 
-<a href="https://github.com/K1butsujiMuzan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1butsujiMuzan&layout=compact&langs_count=8&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=242938&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K1butsujiMuzan&layout=donut-vertical&theme=radical&hide_border=true&langs_count=6&custom_title=Language%20Distribution)](https://github.com/K1butsujiMuzan)
