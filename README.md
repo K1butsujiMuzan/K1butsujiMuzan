@@ -14,6 +14,6 @@
         <a href="https://github.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="50" height="50" alt="GitHub" /></a>
 </div>
 
-<a href="https://github.com/NoOl01" style="width: 50%">
-    <img style="width: 50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoOl01&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=242938&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<a href="https://github.com/K1butsujiMuzan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1butsujiMuzan&layout=donut&theme=radical&hide_border=true&langs_count=6&custom_title=Мои+языки+программирования" alt="Language Stats" />
 </a>
