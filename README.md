@@ -1,4 +1,4 @@
-## <span style="color: #ff6b9e;">Skills</span>
+##Skills
 <div>
     <div>
         <a href="https://developer.mozilla.org/ru/docs/Web/HTML" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="50" height="50" alt="html" /></a>
