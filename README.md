@@ -15,5 +15,5 @@
 </div>
 
 <a href="https://github.com/K1butsujiMuzan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1butsujiMuzan&layout=donut&theme=radical&hide_border=true&langs_count=6&custom_title=Мои+языки+программирования" alt="Language Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1butsujiMuzan&layout=donut&theme=radical&hide_border=true&langs_count=6&custom_title=My+languages" alt="Language Stats" />
 </a>
