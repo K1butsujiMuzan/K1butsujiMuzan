@@ -1,4 +1,4 @@
-## <span style="color: #ff6b9e;">Skills</span>
+#Skills
 
 <div>
     <div>
