@@ -18,3 +18,9 @@
 <a href="https://github.com/K1butsujiMuzan">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1butsujiMuzan&layout=donut&theme=radical&hide_border=true&langs_count=6&custom_title=My+languages" alt="Language Stats" />
 </a>
+
+## GitHub Stats
+
+<a href="https://github.com/K1butsujiMuzan">
+    <img src="https://github-readme-stats.vercel.app/api?username=K1butsujiMuzan&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</a>
