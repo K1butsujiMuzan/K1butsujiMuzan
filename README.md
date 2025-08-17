@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5qY2V1dGJ5c3R5ZGJ6Z3R5ZzV5ZzJ6ZzJ6ZzJ6ZzJ6ZzJ6ZzJ6Z3cifQ==" alt="Muzan Kibutsuji GIF" width="300">
+</div>
+
 ## Skills
 
 <div>
@@ -15,8 +19,10 @@
     </div>
 </div>
 
+## My Languages
+
 <a href="https://github.com/K1butsujiMuzan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1butsujiMuzan&layout=donut&theme=radical&hide_border=true&langs_count=6&custom_title=My+languages" alt="Language Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1butsujiMuzan&layout=donut&theme=radical&hide_border=true&langs_count=6&hide_title=true" alt="Language Stats" />
 </a>
 
 ## GitHub Stats
