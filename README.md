@@ -41,15 +41,5 @@
         <a href="https://better-auth.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/betterauth-dark.svg" width="50" height="50" alt="better-auth" /></a>
     </div>
 </div>
-
-## GitHub Language Stats
-
-<a href="https://github.com/K1butsujiMuzan" style="width: 50%">
-    <img style="width: 50%" src="https://github-stats-psiyavushs-projects.vercel.app/api/top-langs/?username=K1butsujiMuzan&theme=radical&langs_count=7" alt="Top Languages" />
-</a>
-
-## GitHub Stats
-
-<a href="https://github.com/K1butsujiMuzan">
     <img src="https://github-readme-stats.vercel.app/api?username=K1butsujiMuzan&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </a>
