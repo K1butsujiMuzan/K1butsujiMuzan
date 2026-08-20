@@ -1,4 +1,4 @@
-## Skills
+## My Skills
 
 ### Frontend Core & Styling
 <div>
@@ -41,5 +41,3 @@
         <a href="https://better-auth.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/betterauth-dark.svg" width="50" height="50" alt="better-auth" /></a>
     </div>
 </div>
-    <img src="https://github-readme-stats.vercel.app/api?username=K1butsujiMuzan&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</a>
