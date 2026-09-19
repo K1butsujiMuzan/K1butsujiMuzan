@@ -24,6 +24,12 @@
     <a href="https://bun.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/bun-dark.svg" width="50" height="50" alt="bun" /></a>
 </div>
 
+### Testing
+<div>
+    <a href="https://vitest.dev/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/vitest-dark.svg" width="50" height="50" alt="npm" /></a>
+    <a href="https://testing-library.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/testinglibrary-dark.svg" width="50" height="50" alt="yarn" /></a>
+</div>
+
 ### Tools & Libraries
 <div>
     <div>
@@ -36,8 +42,11 @@
     <div>
         <a href="https://www.prisma.io/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/prisma.svg" width="50" height="50" alt="prisma-orm" /></a>
         <a href="https://eslint.org/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/eslint-dark.svg" width="50" height="50" alt="eslint" /></a>
+        <a href="https://stylelint.io/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/stylelint-dark.svg" width="50" height="50" alt="prisma-orm" /></a>
         <a href="https://prettier.io/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/prettier-dark.svg" width="50" height="50" alt="prettier" /></a>
          <a href="https://wails.io/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/wails-dark.svg" width="50" height="50" alt="wails" /></a>
+    </div>
+    <div>
         <a href="https://better-auth.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/betterauth-dark.svg" width="50" height="50" alt="better-auth" /></a>
     </div>
 </div>
