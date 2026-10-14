@@ -20,7 +20,7 @@
     <a href="https://vite.dev/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/vite-dark.svg" width="50" height="50" alt="vite" /></a>  
 </div>
 <div>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/markdown-dark.svg" width="50" height="50" alt="tailwindcss" /></a>
+    <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" rel="noreferrer" style="margin-right: 8px;"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/markdown-dark.svg" width="50" height="50" alt="markdown" /></a>
 </div>
 </Div>
 
